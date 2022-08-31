@@ -5,7 +5,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/Aodak9](https://github.com/Aodak9)
 
-- 💬 Ask me about **react js, javascript, node js, react-redux, CSS, SQL, TypeScript, Tailwind CSS.**
+- 💬 Ask me about **React js, Javascript, Node js, React-redux, CSS, SQL, TypeScript, Tailwind CSS.**
 
 - 📫 How to reach me **emiliojose-2000@hotmail.com**
 
