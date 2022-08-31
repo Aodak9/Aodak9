@@ -5,7 +5,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/Aodak9](https://github.com/Aodak9)
 
-- 💬 About me **Full Stack Web Developer, bilingual with 3 years of general experience in sales, customer service and 1 year of experience as a developer in Javascript, React & Redux, TypeScript, SQL, HTML and CSS with the ability to solve problems, with high programming skills. Writing, teamwork, work under pressure, empathic and active listening.**
+- 💬 About me: **Full Stack Web Developer, bilingual with 3 years of general experience in sales, customer service and 1 year of experience as a developer in Javascript, React & Redux, TypeScript, SQL, HTML and CSS with the ability to solve problems, with high programming skills. Writing, teamwork, work under pressure, empathic and active listening.**
 
 - 📫 How to reach me **emiliojose-2000@hotmail.com**
 
