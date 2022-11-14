@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Emilio Navarro</h1>
 <h3 align="center">A creative Full Stack Developer from Colombia</h3>
 
-- 🌱 I’m currently learning **TypeScript and React Native.**
+- 🌱 I’m currently learning **Java and Test automation**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Aodak9](https://github.com/Aodak9)
 
