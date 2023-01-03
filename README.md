@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Emilio Navarro</h1>
-<h3 align="center">A creative Full Stack Developer from Colombia</h3>
+<h3 align="center">Test Automation Engineer and Full Stack Developer from Colombia</h3>
 
 - 🌱 I’m currently learning **Cypress**
 
