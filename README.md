@@ -1,11 +1,16 @@
 <h1 align="center">Hi 👋, I'm Emilio Navarro</h1>
 <h3 align="center">A creative Full Stack Developer from Colombia</h3>
 
-- 🌱 I’m currently learning **Java and Test automation**
+- 🌱 I’m currently learning **Cypress**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Aodak9](https://github.com/Aodak9)
 
-- 💬 About me: **Full Stack Web Developer, bilingual with 3 years of general experience in sales, customer service and 1 year of experience as a developer in Javascript, React & Redux, TypeScript, SQL, HTML and CSS with the ability to solve problems, with high programming skills. Writing, teamwork, work under pressure, empathic and active listening.**
+- 💬 About me: **Im a Test Automation Engineer and Full Stack Developer, interested in contributing to solving
+problems in organizations through analysis and technology.I have experience in web testing, mobile
+testing, API testing and full stack development in Javascript, React & Redux, Angular, TypeScript, SQL, HTML and CSS; Extremely motivated to constantly develop my skills and
+grow professionally. I am confident in my ability to solve problems and come up with new ideas. My
+hopes for the incoming years would be to be part of something truly great.
+- **
 
 - 📫 How to reach me **emiliojose-2000@hotmail.com**
 
